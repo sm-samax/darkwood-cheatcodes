@@ -1,0 +1,32 @@
+[
+  {
+    "id": "door_silentForest_entrance",
+    "digits": 4,
+    "number": 3333
+  },
+  {
+    "id": "trapdoor_doctor_house_container",
+    "digits": 4,
+    "number": 8459
+  },
+  {
+    "id": "door_oldShed_swampCottage",
+    "digits": 4,
+    "number": 1245
+  },
+  {
+    "id": "crate_mushroomGranny_glade",
+    "digits": 4,
+    "number": 1975
+  },
+  {
+    "id": "crate_swampVillage",
+    "digits": 4,
+    "number": 2531
+  },
+  {
+    "id": "door_radioTower_bunker",
+    "digits": 4,
+    "number": 8684
+  }
+]
