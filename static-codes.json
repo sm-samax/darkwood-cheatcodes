@@ -1,5 +1,10 @@
 [
   {
+    "id": "crate_dryMeadow_hideout",
+    "digits": 4,
+    "number": 2919
+  },
+  {
     "id": "door_silentForest_entrance",
     "digits": 4,
     "number": 3333
